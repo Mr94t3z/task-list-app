@@ -4,7 +4,7 @@
 
 ## Running
 
-Kalian bisa run project dengan
+Kalian bisa run project dengan command berikut:
 
 ```
 mvn package spring-boot:run
